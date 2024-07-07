@@ -1,4 +1,4 @@
-# eWPTX-Vorbereitung
+# eWPTX-Vorbereitung (Web application Penetration Tester eXtreme)
 
 ### Details auf meiner Notion-Seite (Deutsch):
 
